@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/pskill9-hn-server-badge.png)](https://mseep.ai/app/pskill9-hn-server)
+
 # Hacker News MCP Server
 
 A Model Context Protocol (MCP) server that provides tools for fetching stories from Hacker News. This server parses the HTML content from news.ycombinator.com and provides structured data for different types of stories (top, new, ask, show, jobs).
